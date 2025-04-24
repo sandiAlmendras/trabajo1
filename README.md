@@ -1,1 +1,14 @@
-# trabajo1
+# README #
+Este es un repositorio de...
+
+### NOMBRE Y APELLIDO: ###
+ALMENDRAS SANDI
+
+###  MATERIA: ###
+TALLER DE INGIENERIA DE SOFTWARE
+
+### CURSO: ###
+7°2°
+
+### COLEGIO: ###
+COLEGIO TÉCNICO PROVINCIAL "OLGA B. DE ARKO"
